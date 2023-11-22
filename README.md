@@ -1,2 +1,2 @@
 # my-project-
-Introduction to python repository 
+my fist project will be money management system!!
